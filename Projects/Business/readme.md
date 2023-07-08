@@ -1,4 +1,3 @@
-## Kowope Business Report
 # Business Report for Kowope Business Enterprise
 
 By: Ameenullah Ishola Abdulmumeen
